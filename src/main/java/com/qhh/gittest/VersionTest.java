@@ -7,5 +7,6 @@ public class VersionTest {
         System.out.println("version...........1");
         System.out.println("version...........2");
         System.out.println("version...........3");
+        System.out.println("version...........在hot-fix分支上进行修改");
     }
 }
