@@ -9,5 +9,7 @@ public class VersionTest {
         System.out.println("version...........3");
         System.out.println("version...........在master分支上进行修改");
         System.out.println("master  test");
+        System.out.println("version---在hot-fix分支上进行修改");
+        System.out.println("hot-fix  test");
     }
 }
